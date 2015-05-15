@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A3AA057-6AEE-40E0-B736-8B1A9A29476D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E52686CD15C982F3A32A1D68BBDF7623371EA295</key>
+		<string>https://github.com/MobileApps-Cascadia/Doodlebug.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Doodlebug/Doodlebug.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E52686CD15C982F3A32A1D68BBDF7623371EA295</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MobileApps-Cascadia/Doodlebug.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E52686CD15C982F3A32A1D68BBDF7623371EA295</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E52686CD15C982F3A32A1D68BBDF7623371EA295</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Doodlebug</string>
+		</dict>
+	</array>
+</dict>
+</plist>
