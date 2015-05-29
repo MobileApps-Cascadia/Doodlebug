@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		491940481B18D7AD00E6A3CD /* Sticker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 491940461B18D7AD00E6A3CD /* Sticker.xcdatamodeld */; };
 		495E34A51B06AD53000F87B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495E34A41B06AD53000F87B7 /* AppDelegate.swift */; };
 		495E34A71B06AD53000F87B7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495E34A61B06AD53000F87B7 /* ViewController.swift */; };
 		495E34AA1B06AD53000F87B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 495E34A81B06AD53000F87B7 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		491940471B18D7AD00E6A3CD /* Sticker.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Sticker.xcdatamodel; sourceTree = "<group>"; };
 		495E349F1B06AD53000F87B7 /* Doodlebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Doodlebug.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		495E34A31B06AD53000F87B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		495E34A41B06AD53000F87B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				495E34A31B06AD53000F87B7 /* Info.plist */,
+				491940461B18D7AD00E6A3CD /* Sticker.xcdatamodeld */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				495E34A71B06AD53000F87B7 /* ViewController.swift in Sources */,
+				491940481B18D7AD00E6A3CD /* Sticker.xcdatamodeld in Sources */,
 				495E34A51B06AD53000F87B7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -409,6 +413,7 @@
 				495E34C01B06AD53000F87B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		495E34C11B06AD53000F87B7 /* Build configuration list for PBXNativeTarget "DoodlebugTests" */ = {
 			isa = XCConfigurationList;
@@ -417,8 +422,22 @@
 				495E34C31B06AD53000F87B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		491940461B18D7AD00E6A3CD /* Sticker.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				491940471B18D7AD00E6A3CD /* Sticker.xcdatamodel */,
+			);
+			currentVersion = 491940471B18D7AD00E6A3CD /* Sticker.xcdatamodel */;
+			path = Sticker.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 495E34971B06AD53000F87B7 /* Project object */;
 }
